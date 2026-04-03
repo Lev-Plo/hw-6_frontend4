@@ -1,0 +1,24 @@
+{
+  "name": "hw-6_frontend4",
+  "version": "1.0.0",
+  "description": "",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "dev": "npx parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lev-Plo/hw-6_frontend4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lev-Plo/hw-6_frontend4/issues"
+  },
+  "homepage": "https://github.com/Lev-Plo/hw-6_frontend4#readme",
+  "dependencies": {
+    "gh-pages": "^6.3.0",
+    "parcel": "^2.16.4"
+  }
+}
